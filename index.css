@@ -1,10 +1,10 @@
 @font-face {
     font-family: Lequire;
-    src: url(./assets/font/Lequire.otf);
+    src: url('./assets/font/Lequire.otf');
 }
 @font-face {
     font-family: Sarcolenta;
-    src: url(./assets/font/Sarcolenta.ttf);
+    src: url('./assets/font/Sarcolenta.ttf');
 }
 body{
     background-color: #bde0fe;
